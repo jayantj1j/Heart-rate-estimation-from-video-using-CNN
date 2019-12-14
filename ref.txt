@@ -1,0 +1,1 @@
+[1] Non-contact, automated cardiac pulse measurements using video imaging and blind source separation. 
